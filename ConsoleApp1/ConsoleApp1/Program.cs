@@ -17,6 +17,8 @@ namespace ConsoleApp1
             Console.WriteLine("test 4");
 
             Console.WriteLine("test 5");
+
+            Console.WriteLine("test 6");
         }
     }
 }
